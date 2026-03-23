@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support | Scam Detector AI</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; color: #333; }
+        h1 { color: #1E3A8A; }
+        .contact-box { background: #f4f4f4; padding: 20px; border-radius: 8px; border-left: 5px solid #1E3A8A; }
+        footer { margin-top: 50px; font-size: 0.8em; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Scam Detector AI Support</h1>
+    <p>Protecting Australians from digital fraud. If you have questions about a scan or need help with the app, contact our support team below.</p>
+    
+    <div class="contact-box">
+        <strong>Email Support:</strong> <a href="mailto:support@blossomai.com">support@blossomai.com</a><br>
+        <strong>Response Time:</strong> Within 24-48 hours.
+    </div>
+
+    <h3>Frequently Asked Questions</h3>
+    <p><strong>How do I scan a message?</strong><br>Copy the suspicious text or upload a screenshot in the app to receive an instant risk assessment.</p>
+    <p><strong>Is my data safe?</strong><br>Yes. We use industry-standard encryption and do not store your personal messages. See our <a href="privacy.html">Privacy Policy</a> for details.</p>
+
+    <footer>
+        &copy; 2026 Scam Detector AI. All rights reserved.
+    </footer>
+</body>
+</html>
